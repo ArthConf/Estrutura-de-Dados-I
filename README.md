@@ -1,2 +1,2 @@
-# Estrutura-de-Dados-I
-Este Repositório será utilizado para armazenar códigos criados durante às aulas de Estrutura de Dados I
+# Projeto -> Cadastramento de atletas
+Este Repositório será utilizado para armazenar códigos criados para o usuário
